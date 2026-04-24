@@ -51,7 +51,7 @@ docker compose down
 ### Sem Docker
 
 ```bash
-git clone https://github.com/seu-usuario/jwt-auth-api.git
+git clone https://github.com/gleidistonaraujo18/jwt-auth-api
 cd jwt-auth-api
 
 composer install
