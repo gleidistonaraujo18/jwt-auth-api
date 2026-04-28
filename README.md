@@ -116,5 +116,5 @@ MIT — veja [LICENSE](LICENSE).
 
 ## Autor
 
-**Seu Nome**
-[github.com/seu-usuario](https://github.com/seu-usuario) · [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+**Gleidiston Araujo**
+[github.com/gleidistonaraujo18](https://github.com/gleidistonaraujo18) · [linkedin.com/in/gleidistonaraujo](https://linkedin.com/in/gleidistonaraujo)
